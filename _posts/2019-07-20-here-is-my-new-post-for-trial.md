@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here is a blog post sample
+title: Chicken dipper
 date: 2020-06-24 17:50
 image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
 caption: Cobbles
