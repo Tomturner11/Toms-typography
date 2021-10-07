@@ -1,9 +1,9 @@
 ---
 layout: post
-title: FONTS boi
+title: The phycological affect of fonts
 date: 2021-10-04T10:07:52.456Z
-image: ../uploads/fonttttttttttt.jpg
+image: ../uploads/mike-erskine-b4ad8zsaozk-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
-Someone say FONTS
+The Phycological affect of fonts
