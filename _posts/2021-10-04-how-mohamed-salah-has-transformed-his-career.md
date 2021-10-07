@@ -6,4 +6,8 @@ image: ../uploads/mike-erskine-b4ad8zsaozk-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
-The Phycological affect of fonts
+<!--StartFragment-->
+
+**For years designers have had many tools to provoke the mind of viewers. One of these tools being fonts.**
+
+<!--EndFragment-->
