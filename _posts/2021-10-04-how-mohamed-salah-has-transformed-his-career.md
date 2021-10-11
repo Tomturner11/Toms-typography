@@ -2,7 +2,7 @@
 layout: post
 title: The phycological impact of fonts
 date: 2021-10-04T10:07:52.456Z
-image: ../uploads/mike-erskine-b4ad8zsaozk-unsplash.jpg
+image: ../uploads/psychology-of-typography-header.png
 title_color: "#ffffff"
 comments: false
 ---
