@@ -6,4 +6,6 @@ image: ../uploads/mike-erskine-b4ad8zsaozk-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
-**For years designers have had many tools to provoke the mind of viewers. One of these tools being fonts.**
+**For years designers have had many tools to provoke the mind of viewers. One of these tools being fonts. However the use of fonts, branding and logos to create emotional responses has only been fully realised in the past few decades. These uses of fonts are often used to create brand identities. A good example of this is the Top Gear magazine, DixonBaxi developed the typeface known as TG industry. This gives the brand a consistent presence across all its media platforms.** 
+
+![](../uploads/top-gear-spread.jpeg)
