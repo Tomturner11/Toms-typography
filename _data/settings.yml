@@ -4,7 +4,7 @@ footer_text: Copyright 2021 Tom Turner
 header_feature_image: ../uploads/pages.jpg
 header_text: Fonts and their physiological impacts
 header_text_color: "#ffffff"
-bannerheight: 50vmax
+bannerheight: 40vmax
 navbarheight: 35px
 logo: ../uploads/typography-logo.jpg
 favicon: ../uploads/typography_logo_mkx_icon.ico
