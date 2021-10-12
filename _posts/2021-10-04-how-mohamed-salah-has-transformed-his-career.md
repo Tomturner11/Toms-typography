@@ -66,6 +66,6 @@ Good examples of brands using this font group are Kelloggs, Disney and Budwiser.
 
 6 - Display
 
- This group of fonts are for those you can't quite place in other categories. These come across as unique and adaptable. These are usually used by playful brands, as well as for novelty.
+This group of fonts are for those you can't quite place in other categories. These come across as unique and adaptable. These are usually used by playful brands, as well as for novelty.
 
 Good examples of brands who use this are Lego, MTV and Greenpeace.
