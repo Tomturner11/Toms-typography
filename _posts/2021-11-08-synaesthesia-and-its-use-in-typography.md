@@ -2,6 +2,7 @@
 layout: post
 title: Synaesthesia and its use in typography
 date: 2021-11-08T15:57:54.266Z
+image: ../uploads/synaesthesia_front_image_0.png
 title_color: "#ffffff"
 comments: false
 ---
