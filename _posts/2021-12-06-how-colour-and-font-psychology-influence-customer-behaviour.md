@@ -2,6 +2,7 @@
 layout: post
 title: "How Colour and Font Psychology Influence Customer Behaviour "
 date: 2021-12-06T09:47:25.810Z
+image: ../uploads/farbpsychologie_menschen-1024x597.jpeg
 title_color: "#ffffff"
 comments: false
 ---
